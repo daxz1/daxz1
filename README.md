@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+
+<p align='center'>
+I'm daxz1.
+</p>
+
+
+<h1 align='center'><i>Happy Coding</i></h1>
 
 <!--
 **daxz1/daxz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
